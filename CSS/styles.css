@@ -9,7 +9,6 @@
 .middle-container {
   position: relative;
   margin: 100px auto;
-
   color: #40514E;
 }
 
@@ -21,7 +20,7 @@
   padding: 20px 0;
 }
 
-.footer-link{
+.footer-link {
   color: #11999E;
   margin: auto 20px;
 }
@@ -32,9 +31,9 @@
   top: 50%;
 }
 
-.intro{
+.intro {
   width: 30%;
-  margin:auto;
+  margin: auto;
 }
 
 .btn {
@@ -64,36 +63,36 @@
   text-decoration: none;
 }
 
-
-.copyright{
+.copyright {
   color: #EAF6F6;
-  margin:20px auto 0 auto;
+  margin: 20px auto 0 auto;
   font-size: 0.75rem;
   padding-top: 20px;
 }
 
-.contact-message{
+.contact-message {
   margin: 60px auto;
+  width: 40%;
 }
 
-.skill-row{
+.skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
 }
 
-.resume{
-       text-align: center;
+.resume {
+  text-align: center;
 }
 
-.skill_image1{
+.skill_image1 {
   width: 40%;
   float: left;
   margin-right: 30px;
 }
 
-.skill_image2{
+.skill_image2 {
   width: 25%;
   float: right;
   margin-left: 30px;
@@ -105,8 +104,8 @@
   top: 5%;
 }
 
-p{
-    line-height: 2;
+p {
+  line-height: 2;
 }
 
 h1 {
@@ -129,10 +128,10 @@ h2 {
 
 h3 {
   font-family: 'Montserrat', sans-serif;
-  color:#11999E;
+  color: #11999E;
 }
 
-hr{
+hr {
   width: 3%;
   border-color: #EAF6F6;
   border-style: dotted;
@@ -143,14 +142,14 @@ hr{
   margin: 100px auto;
 }
 
-a{
+a {
   color: #11999E;
   text-decoration: none;
   font-family: 'Montserrat', sans-serif;
   font-weight: bolder;
 }
 
-a:hover{
+a:hover {
   color: #EAF6F6;
 }
 
